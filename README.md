@@ -1,16 +1,14 @@
 ### Hi there 👋
-
-<!--
-**piotr-fiuk/piotr-fiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li> 🔭 I’m currently working on Fitly - diet and training web app.</li>
+  <li> 🌱 I’m currently learning JAVA @InfoShareAcademy</li>
+  <li> 🤔 I’m looking for help with everything at the moment ^^</li>
+  <li> 💬 Ask me about anything! I'd love to help, talk and work with any of you.</li>
+  <li> 📫 How to reach me:
+    <ul>
+      <li> piotrek.fiuk@gmail.com </li>
+    </ul>
+  </li>
+  <li> 😄 Pronouns: you can call me Rabit</li>
+  <li> ⚡ Fun fact: while ago I was a carpenter, bartender and a DJ :D</li>
+</ul>
